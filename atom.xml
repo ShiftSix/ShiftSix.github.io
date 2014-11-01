@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Learn more about me]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://lianliu.me/"/>
-  <updated>2014-10-28T08:13:54.709Z</updated>
+  <updated>2014-11-01T05:25:38.575Z</updated>
   <id>http://lianliu.me/</id>
   
   <author>
@@ -15,10 +15,55 @@
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
   
   <entry>
+    <title><![CDATA[Personal Portfolio]]></title>
+    <link href="http://lianliu.me/2014/11/01/20141111/"/>
+    <id>http://lianliu.me/2014/11/01/20141111/</id>
+    <published>2014-11-01T05:02:22.000Z</published>
+    <updated>2014-11-01T05:22:48.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="Platform">Platform</h2>
+<h3 id="Website">Website</h3>
+<p><strong>Site</strong> <a href="http://www.namecheap.com" target="_blank" rel="external">Namecheap</a> student discount for one year: <a href="http://lianliu.me" target="_blank" rel="external">LianLiu.me</a><br><strong>Github</strong> <a href="http://hackerxiong.me/2014/10/12/how-to-build-a-blog-system-using-github-and-hexo/" target="_blank" rel="external">Experience</a> by XWF; <a href="https://help.github.com/articles/markdown-basics/" target="_blank" rel="external">Markdown</a> Basics; <a href="http://git-scm.com/book/zh/v1" target="_blank" rel="external">Git-book</a></p>
+<h3 id="Online_Album">Online Album</h3>
+<p><strong>Domestic</strong> <a href="http://weibo.com/daodao1202/profile?rightmod=1&amp;wvr=6&amp;mod=personinfo" target="_blank" rel="external">Sina</a><br><strong>International</strong> <a href="https://www.flickr.com/" target="_blank" rel="external">Flickr</a></p>
+<h2 id="Works">Works</h2>
+<h3 id="Business_Projects">Business Projects</h3>
+<h3 id="Data_Projects">Data Projects</h3>
+<h3 id="Designs_and_Media">Designs and Media</h3>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="Platform">Platform</h2>
+<h3 id="Website">Website</h3>
+<p><strong>Site</strong> <a href="http://www.namecheap.com" target="_blank" re]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Project Report]]></title>
+    <link href="http://lianliu.me/2014/11/01/Project/"/>
+    <id>http://lianliu.me/2014/11/01/Project/</id>
+    <published>2014-11-01T04:37:10.000Z</published>
+    <updated>2014-11-01T05:24:33.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="Evaluation_of_Project_Procedure_and_Management_Process">Evaluation of Project Procedure and Management Process</h1>
+<h2 id="Management_Group">Management Group</h2>
+<p>The management group from the very beginning of this project lacked effective communication and interactive approaches with team members. More often than not, the team members were speculating the reasons for unexpected results, instead of being involved to make decisions. For example, Chrysler held the very first meeting with BMW before the team reached to any other companies. And then, BMW Board Director Dr. Reitzle’s accepted Chrysler’s proposal despite the objectives from his engineers.<br>These assertive decisions brought some hidden trouble when proceeding with the project. As we can see now, the successor team was not satisfied with the outcome from the predecessor team, since their opinion was not considered thoroughly. Additionally, the overlooking of team members’ comments reduced their loyalty to the company and consequently compromised the prestige of the management group. </p>
+<h2 id="Team_Structure_and_Management">Team Structure and Management</h2>
+<p>From Exhibits 5, 6 and 7 we can tell that, although each company accounted for half of the Joint Venture Steering Committee, more than two thirds of the Tritec staff leaders were from Chrysler, further imbalanced by recent staff recruits. This imbalanced organization chart meant that when the Committee was negotiating the proposal for reaching an agreement beneficial to both sides, the implementation would likely face resistance from the execution teams either due to the different interests or different corporate cultures.<br>Another considerable problem from the team structure was that most of the execution team leaders had ten years or even more than twenty years’ experience in this field; while the project manager, Jack Smith was only 33 years old and had been selected to run Chrysler’s van assembly plant only one year ago. This huge gap made it difficult for the PM to deliver his decision effectively. Chrysler did provide him with experienced people in this project as promised, but on the other hand, it was also difficult for veterans to show enough respect to a young leader. We will discuss more about the deficiencies of the PM appointment in the following section.</p>
+<h2 id="Project_Manager">Project Manager</h2>
+<p>First of all, the project manager, Jack Smith was not involved in this project until November 1996, which was almost one year after the first meeting between Chrysler and BMW. Before he joined, the engineers from both teams had already gone through some of the design details and reached an agreement to some extent. The project manager’s absence from the early period of a project led to inadequate understanding of the project’s scope. Despite the fact that Mr. Smith joined the project shortly before the agreement signed, it still took much time for him to become familiar with the team and their preference at the beginning. To a certain degree, this resulted in subsequent conflicts and inefficient communication afterwards.<br>Secondly, in a cross-functional team, especially with members from two companies with different corporate cultures, the project manager is particularly responsible for the team’s collaboration as well as project control. Although Mr. Smith had education and plant experience in mechanical engineering, he lacked sufficient capability in running large, complex operations. The approaches he adopted to collocate the team, such as the contract book, mandatory meeting, and the team notebook, were techniques from textbooks or based on ideal circumstances, without considerations of the actual case. The revisions of the contract book proved that Mr. Smith could make proper evaluation and corresponding adjustment according to the feedback; but undoubtedly this protracted delivery had lost much of the impact on some early design decisions. Similarly some team members were already distracted by the frequent and mandatory meetings but the project manager apparently did not notice these discontented attitudes.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h1 id="Evaluation_of_Project_Procedure_and_Management_Process">Evaluation of Project Procedure and Management Process</h1>
+<h2 id="Manageme]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
     <title><![CDATA[Hello World]]></title>
-    <link href="http://lianliu.me/2014/09/19/hello-world/"/>
-    <id>http://lianliu.me/2014/09/19/hello-world/</id>
-    <published>2014-09-19T15:27:48.000Z</published>
+    <link href="http://lianliu.me/2014/10/31/hello-world/"/>
+    <id>http://lianliu.me/2014/10/31/hello-world/</id>
+    <published>2014-11-01T03:44:08.000Z</published>
     <updated>2014-10-28T02:00:56.000Z</updated>
     <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick_Start">Quick Start</h2>
