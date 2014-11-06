@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Learn more about me]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://lianliu.me/"/>
-  <updated>2014-11-05T17:15:39.246Z</updated>
+  <updated>2014-11-06T17:26:06.346Z</updated>
   <id>http://lianliu.me/</id>
   
   <author>
@@ -19,8 +19,9 @@
     <link href="http://lianliu.me/2014/11/05/Project-Management-Case-Study/"/>
     <id>http://lianliu.me/2014/11/05/Project-Management-Case-Study/</id>
     <published>2014-11-05T17:03:30.000Z</published>
-    <updated>2014-11-05T17:14:17.000Z</updated>
+    <updated>2014-11-06T17:24:09.000Z</updated>
     <content type="html"><![CDATA[<h1 id="CHRYSLER_AND_BMW:_TRITEC_ENGINE_JOINT_VENTURE">CHRYSLER AND BMW: TRITEC ENGINE JOINT VENTURE</h1>
+<p><strong>Created by</strong><br>Master of Engineering Management Program, Duke University<br>Class of 2013<br>Akash Gupta, Aaron Shakin<br>Class of 2014<br>Mohammad Ali Raahim, Lian Liu</p>
 <h2 id="Executive_Summary">Executive Summary</h2>
 <p>Our team was contracted by Tritec, a team formed by the joint venture between Chrysler and BMW to select an appropriate solution for the engine block sealing design. The purpose of the joint venture was to capitalize on the opportunities in Asia and Latin America for low cost engines ranging in size from 1.0 – 1.6 liters. After discussing, the joint team decided to establish an engine plant in Brazil, as Chrysler believed other emerging countries were too risky and the overall project would be led by Jack Smith.<br>Our team needed to analyze and resolve the differences between the product engineering and the advanced manufacturing team. The advanced manufacturing team believed that the lower tie bar design selected by the product engineering team is impractical, as it would necessitate reinventing part of the machining process, which would be difficult.<br>We used a four-fold method to define success and select the best design. Based on our findings, our recommendation is the bedplate design, since it proved to be the most favorable option in three of these five categories.</p>
 <h3 id="Best_warranty_assessment_(Exhibit_14)">Best warranty assessment (Exhibit 14)</h3>
@@ -43,7 +44,7 @@
 Next, each of the designs was evaluated on the basis of favorability. The data was obtained from Exhibit 17. A higher summary total score indicated more favorability. The number was obtained by taking a weighted sum of the ratings assigned to each design approach based on a number of practical implementation aspects. The following results were gleaned from the data:<br>•    Bedplate design had the highest summary total of 158, followed by the rear retainer style design with 137<br>•    Conclusion: Bedplate design has the most favorable design review</li>
 </ol>
 <h3 id="Sealing_design_and_process_risk">Sealing design and process risk</h3>
-<p>In order to encapsulate the data presented in Exhibits 15 and 16 and to prepare it for comparative analysis, the Risk Priority Number (RPN) scores of the Design and Process Failure Mode and Effects Analysis (FMEA) were added up to arrive at a single number for each alternative. This number represented the overall risk associated with each alternative within the design and process categories. Table 2 summarizes the data that was obtained:<br>     Sealing Design Risk<br>(Sum of sealing design FMEA RPN scores)    Process Risk<br>(Sum of process FMEA RPN scores)<br>Cast-in-Tie Bar    960    2390<br>Bedplate design    444    682<em><br>Rear retainer style    1938    422<br>Table 2: Sealing Design and Process Risk<br>/</em>Assuming 4.7L comparison of bore centers and access issues do not reveal any risk (see assumptions discussion that follows)<br>Conclusion: As the above table illustrates, the bedplate design had the lowest sealing design risk (lowest summary total of design RPN scores) while the rear retainer style had the lowest process risk associated with it. </p>
+<p>In order to encapsulate the data presented in Exhibits 15 and 16 and to prepare it for comparative analysis, the Risk Priority Number (RPN) scores of the Design and Process Failure Mode and Effects Analysis (FMEA) were added up to arrive at a single number for each alternative. This number represented the overall risk associated with each alternative within the design and process categories. Table 2 summarizes the data that was obtained:<br>     Sealing Design Risk<br>(Sum of sealing design FMEA RPN scores)    Process Risk<br>(Sum of process FMEA RPN scores)<br>Cast-in-Tie Bar    960    2390<br>Bedplate design    444    682*<br>Rear retainer style    1938    422<br>Table 2: Sealing Design and Process Risk<br>Assuming 4.7L comparison of bore centers and access issues do not reveal any risk (see assumptions discussion that follows)<br>Conclusion: As the above table illustrates, the bedplate design had the lowest sealing design risk (lowest summary total of design RPN scores) while the rear retainer style had the lowest process risk associated with it. </p>
 <h3 id="Warranty_assessment">Warranty assessment</h3>
 <p>The engine engineering warranty assessment comparison was carried out using data from Exhibit 14. Table 3 illustrates the numbers used and the PERT estimates for the number of claims per 1000 engines.<br>     Worst case    Most likely    Best case    PERT estimate<br>Cast-in-Tie Bar    5.0    6.6    18.0    8.2<br>Bed plate    4.5    5.5    9.0    5.9<br>Rear Retainer Style    6.5    8.3    36.0    12.6<br>Table 3: PERT Estimate<br>The PERT estimate was calculated using the following formula:<br>(1/6) × Worst case number + (1/6) × Best case number + (4/6) × Most likely number<br>In this category, the bedplate performed the best, since it had the lowest number of projected warranty claims.</p>
 <h3 id="Cost_Analysis">Cost Analysis</h3>
@@ -76,7 +77,7 @@ While the bedplate design appears to have more advantages than the other two alt
 ]]></content>
     <summary type="html">
     <![CDATA[<h1 id="CHRYSLER_AND_BMW:_TRITEC_ENGINE_JOINT_VENTURE">CHRYSLER AND BMW: TRITEC ENGINE JOINT VENTURE</h1>
-<h2 id="Executive_Summary">Executi]]>
+<p><strong>Created by</strong><br>]]>
     </summary>
     
   </entry>
@@ -101,27 +102,6 @@ While the bedplate design appears to have more advantages than the other two alt
     <![CDATA[<h2 id="Platform">Platform</h2>
 <h3 id="Website">Website</h3>
 <p><strong>Site</strong> <a href="http://www.namecheap.com" target="_blank" re]]>
-    </summary>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Project Report]]></title>
-    <link href="http://lianliu.me/2014/11/01/Project/"/>
-    <id>http://lianliu.me/2014/11/01/Project/</id>
-    <published>2014-11-01T04:37:10.000Z</published>
-    <updated>2014-11-01T05:24:33.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="Evaluation_of_Project_Procedure_and_Management_Process">Evaluation of Project Procedure and Management Process</h1>
-<h2 id="Management_Group">Management Group</h2>
-<p>The management group from the very beginning of this project lacked effective communication and interactive approaches with team members. More often than not, the team members were speculating the reasons for unexpected results, instead of being involved to make decisions. For example, Chrysler held the very first meeting with BMW before the team reached to any other companies. And then, BMW Board Director Dr. Reitzle’s accepted Chrysler’s proposal despite the objectives from his engineers.<br>These assertive decisions brought some hidden trouble when proceeding with the project. As we can see now, the successor team was not satisfied with the outcome from the predecessor team, since their opinion was not considered thoroughly. Additionally, the overlooking of team members’ comments reduced their loyalty to the company and consequently compromised the prestige of the management group. </p>
-<h2 id="Team_Structure_and_Management">Team Structure and Management</h2>
-<p>From Exhibits 5, 6 and 7 we can tell that, although each company accounted for half of the Joint Venture Steering Committee, more than two thirds of the Tritec staff leaders were from Chrysler, further imbalanced by recent staff recruits. This imbalanced organization chart meant that when the Committee was negotiating the proposal for reaching an agreement beneficial to both sides, the implementation would likely face resistance from the execution teams either due to the different interests or different corporate cultures.<br>Another considerable problem from the team structure was that most of the execution team leaders had ten years or even more than twenty years’ experience in this field; while the project manager, Jack Smith was only 33 years old and had been selected to run Chrysler’s van assembly plant only one year ago. This huge gap made it difficult for the PM to deliver his decision effectively. Chrysler did provide him with experienced people in this project as promised, but on the other hand, it was also difficult for veterans to show enough respect to a young leader. We will discuss more about the deficiencies of the PM appointment in the following section.</p>
-<h2 id="Project_Manager">Project Manager</h2>
-<p>First of all, the project manager, Jack Smith was not involved in this project until November 1996, which was almost one year after the first meeting between Chrysler and BMW. Before he joined, the engineers from both teams had already gone through some of the design details and reached an agreement to some extent. The project manager’s absence from the early period of a project led to inadequate understanding of the project’s scope. Despite the fact that Mr. Smith joined the project shortly before the agreement signed, it still took much time for him to become familiar with the team and their preference at the beginning. To a certain degree, this resulted in subsequent conflicts and inefficient communication afterwards.<br>Secondly, in a cross-functional team, especially with members from two companies with different corporate cultures, the project manager is particularly responsible for the team’s collaboration as well as project control. Although Mr. Smith had education and plant experience in mechanical engineering, he lacked sufficient capability in running large, complex operations. The approaches he adopted to collocate the team, such as the contract book, mandatory meeting, and the team notebook, were techniques from textbooks or based on ideal circumstances, without considerations of the actual case. The revisions of the contract book proved that Mr. Smith could make proper evaluation and corresponding adjustment according to the feedback; but undoubtedly this protracted delivery had lost much of the impact on some early design decisions. Similarly some team members were already distracted by the frequent and mandatory meetings but the project manager apparently did not notice these discontented attitudes.</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<h1 id="Evaluation_of_Project_Procedure_and_Management_Process">Evaluation of Project Procedure and Management Process</h1>
-<h2 id="Manageme]]>
     </summary>
     
   </entry>
