@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Learn more about me]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://lianliu.me/"/>
-  <updated>2015-01-20T05:30:33.284Z</updated>
+  <updated>2015-01-20T07:03:46.798Z</updated>
   <id>http://lianliu.me/</id>
   
   <author>
@@ -355,6 +355,44 @@ Next, each of the designs was evaluated on the basis of favorability. The data w
     </summary>
     
       <category term="AboutMe" scheme="http://lianliu.me/tags/AboutMe/"/>
+    
+      <category term="Color" scheme="http://lianliu.me/tags/Color/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Team Design]]></title>
+    <link href="http://lianliu.me/2014/09/29/Team-Design/"/>
+    <id>http://lianliu.me/2014/09/29/Team-Design/</id>
+    <published>2014-09-29T05:50:54.000Z</published>
+    <updated>2015-01-20T07:03:03.000Z</updated>
+    <content type="html"><![CDATA[<p>This is an optional assignment from our Project Management class. The requirements are as follows.</p>
+<ul>
+<li>You are Professional consultants offering Project Management related services!</li>
+<li>You are developing a means to communicate Who you are and What you offer!</li>
+<li>Here are the things we are looking for:<ul>
+<li>Best Team Name: </li>
+<li>Best Team Logo: </li>
+<li><h1 id="Best_Team_Motto:_">Best Team Motto: </h1>
+<h2 id="AuroReal">AuroReal</h2>
+<h4 id="Team_Members">Team Members</h4>
+<strong>Team 7</strong>: Akash Gupta, Aaron Shakin, Lian Liu, Mohammad Ali Raahim<h4 id="About_the_Team">About the Team</h4>
+AuroReal is a project management consulting team focused on commercializing programs. We provide start-up, emerging and well-established companies with useful insights for improving their commercialization decisions.<br>Commercialization is one of the most significant stages of the technological innovation process due to its high risks and costs. At AuroReal, we work as advisors as well as your collaborators during this crucial stage to help you avoid errors that could translate into serious market failure.<br>AuroReal is made up of four professional consultants with expertise in Mechanical Engineering, Electrical Engineering, Product Development, Automation and Control Systems. The team has comprehensive experience in technical marketing, digital marketing and intellectual property. We are here to support you taking decisive actions and achieve sustainable results.<h4 id="About_the_Name">About the Name</h4>
+AuroReal come from Aurora and Realization. The goal of the team is to help companies realize emerging high-tech innovations, as the aurora of our time, into real market shares. <h4 id="Team_Logo">Team Logo</h4>
+<img src="http://ww3.sinaimg.cn/mw690/72a818edjw1eofzkbmoo0j22di0qn13y.jpg" alt="AuroReal"><br>AuroReal helps move your business from the Red Ocean to the Blue Ocean and ensures sustainable growth by providing commercialization consulting services.<h4 id="Team_Mascot">Team Mascot</h4>
+<img src="http://ww2.sinaimg.cn/mw690/72a818edjw1eofznjhr0xj21pe1l5qd9.jpg" alt="AuroReal Dolphin"><br>The Blue Ocean recalls everyone of this smart animal, dolphin. AuroReal Dolphin represents the team’s knowledge, wisdom and energetic spirit. The smooth design can be easily and clearly applied to different kinds of materials in addition to printing, such as T-shirts, trophies, packages and company giveaways. With no additional accessories AuroReal Dolphin can be designed into 3D samples and the wide back of the dolphin leaves adequate space to print slogans or QR code to deliver more information.<h4 id="Team_Motto">Team Motto</h4>
+We help you realize your technology and win the market as a team. <h4 id="Designing_Reference:">Designing Reference:</h4>
+CG3, Deloitte, Erie Innovation and Commercialization, Caterpillar<h4 id="About_the_Team-1">About the Team</h4>
+All four team members of AuroReal are students from Duke MEMP (Master of Engineering Management Program). The program prepares engineering and science graduates to become future industry leaders.</li>
+</ul>
+</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>This is an optional assignment from our Project Management class. The requirements are as follows.</p>
+<ul>
+<li>You are Professional cons]]>
+    </summary>
     
       <category term="Color" scheme="http://lianliu.me/tags/Color/"/>
     
