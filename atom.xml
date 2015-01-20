@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Learn more about me]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://lianliu.me/"/>
-  <updated>2015-01-20T07:03:46.798Z</updated>
+  <updated>2015-01-20T07:24:27.548Z</updated>
   <id>http://lianliu.me/</id>
   
   <author>
@@ -178,39 +178,6 @@
   </entry>
   
   <entry>
-    <title><![CDATA[How to Reset Your Network Connection]]></title>
-    <link href="http://lianliu.me/2014/11/17/How-to-Reset-Your-Network-Connection/"/>
-    <id>http://lianliu.me/2014/11/17/How-to-Reset-Your-Network-Connection/</id>
-    <published>2014-11-17T23:14:20.000Z</published>
-    <updated>2015-01-20T01:41:47.000Z</updated>
-    <content type="html"><![CDATA[<p>Spending twenty minutes calling Linksys customer service. Here is what I learned; <em>incase it happens again</em>.<br>BTW, Linksys does have qualified customer service as long as you still have your warranted. </p>
-<ul>
-<li>Reset your modem: unplug the power for 3 minutes;</li>
-<li>Connect the modem to your laptop; </li>
-<li>Check IP address: network and sharing centre -&gt; change adapter settings -&gt; Ethernet status;</li>
-<li>Connect the modem to the router;</li>
-<li>Connect the router’s <strong>OUT port</strong> to your laptop;</li>
-<li>Visit 192.168.1.1; leave the user name blank; pswd: admin;</li>
-<li>Internet connection type: automatic configuration - DHCP;</li>
-<li>Mac Address Clone: Clone PC’s Mac;</li>
-<li>Check whether the internet is connected;</li>
-<li>Unplug the power of your router to release the IP address;</li>
-<li>Status: check your new IP address;</li>
-<li>Wireless:<br>  Manually -&gt; network mode: mixed -&gt; Channel width: 20MHz only -&gt; Channel: 6-2.437HZ -&gt; SSID broadcast: enabled;</li>
-<li>Wireless security: Set network name and pswd;</li>
-<li>Unplug the wire from your laptop;</li>
-<li>Check whether you can get online now;</li>
-</ul>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>Spending twenty minutes calling Linksys customer service. Here is what I learned; <em>incase it happens again</em>.<br>BTW, Linksys does ]]>
-    </summary>
-    
-      <category term="FunFact" scheme="http://lianliu.me/tags/FunFact/"/>
-    
-  </entry>
-  
-  <entry>
     <title><![CDATA[CHRYSLER AND BMW: TRITEC ENGINE JOINT VENTURE (Section)]]></title>
     <link href="http://lianliu.me/2014/11/05/Project-Management-Case-Study/"/>
     <id>http://lianliu.me/2014/11/05/Project-Management-Case-Study/</id>
@@ -287,62 +254,6 @@ Next, each of the designs was evaluated on the basis of favorability. The data w
   </entry>
   
   <entry>
-    <title><![CDATA[Personal Portfolio]]></title>
-    <link href="http://lianliu.me/2014/11/01/20141111/"/>
-    <id>http://lianliu.me/2014/11/01/20141111/</id>
-    <published>2014-11-01T05:02:22.000Z</published>
-    <updated>2014-11-01T05:22:48.000Z</updated>
-    <content type="html"><![CDATA[<h2 id="Platform">Platform</h2>
-<h3 id="Website">Website</h3>
-<p><strong>Site</strong> <a href="http://www.namecheap.com" target="_blank" rel="external">Namecheap</a> student discount for one year: <a href="http://lianliu.me" target="_blank" rel="external">LianLiu.me</a><br><strong>Github</strong> <a href="http://hackerxiong.me/2014/10/12/how-to-build-a-blog-system-using-github-and-hexo/" target="_blank" rel="external">Experience</a> by XWF; <a href="https://help.github.com/articles/markdown-basics/" target="_blank" rel="external">Markdown</a> Basics; <a href="http://git-scm.com/book/zh/v1" target="_blank" rel="external">Git-book</a></p>
-<h3 id="Online_Album">Online Album</h3>
-<p><strong>Domestic</strong> <a href="http://weibo.com/daodao1202/profile?rightmod=1&amp;wvr=6&amp;mod=personinfo" target="_blank" rel="external">Sina</a><br><strong>International</strong> <a href="https://www.flickr.com/" target="_blank" rel="external">Flickr</a></p>
-<h2 id="Works">Works</h2>
-<h3 id="Business_Projects">Business Projects</h3>
-<h3 id="Data_Projects">Data Projects</h3>
-<h3 id="Designs_and_Media">Designs and Media</h3>
-]]></content>
-    <summary type="html">
-    <![CDATA[<h2 id="Platform">Platform</h2>
-<h3 id="Website">Website</h3>
-<p><strong>Site</strong> <a href="http://www.namecheap.com" target="_blank" re]]>
-    </summary>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://lianliu.me/2014/10/31/hello-world/"/>
-    <id>http://lianliu.me/2014/10/31/hello-world/</id>
-    <published>2014-11-01T03:44:08.000Z</published>
-    <updated>2014-11-01T06:00:30.000Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start">Quick Start</h2>
-<h3 id="Create_a_new_post">Create a new post</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server">Run server</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files">Generate static files</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-
-<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-<p>add ssh to github<br>config email and name<br>hexo generate<br>hexo deploy</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
-    </summary>
-    
-  </entry>
-  
-  <entry>
     <title><![CDATA[My Visualized Resume]]></title>
     <link href="http://lianliu.me/2014/10/19/My-Visualized-Resume/"/>
     <id>http://lianliu.me/2014/10/19/My-Visualized-Resume/</id>
@@ -365,36 +276,96 @@ Next, each of the designs was evaluated on the basis of favorability. The data w
     <link href="http://lianliu.me/2014/09/29/Team-Design/"/>
     <id>http://lianliu.me/2014/09/29/Team-Design/</id>
     <published>2014-09-29T05:50:54.000Z</published>
-    <updated>2015-01-20T07:03:03.000Z</updated>
+    <updated>2015-01-20T07:19:02.000Z</updated>
     <content type="html"><![CDATA[<p>This is an optional assignment from our Project Management class. The requirements are as follows.</p>
+<p>====================================<br>You are professional consultants offering Project Management related services!<br>You are developing a means to communicate Who you are and What you offer!<br>Here are the things we are looking for:</p>
 <ul>
-<li>You are Professional consultants offering Project Management related services!</li>
-<li>You are developing a means to communicate Who you are and What you offer!</li>
-<li>Here are the things we are looking for:<ul>
-<li>Best Team Name: </li>
-<li>Best Team Logo: </li>
-<li><h1 id="Best_Team_Motto:_">Best Team Motto: </h1>
+<li>Best Team Name </li>
+<li>Best Team Logo</li>
+<li>Best Team Motto</li>
+</ul>
 <h2 id="AuroReal">AuroReal</h2>
 <h4 id="Team_Members">Team Members</h4>
-<strong>Team 7</strong>: Akash Gupta, Aaron Shakin, Lian Liu, Mohammad Ali Raahim<h4 id="About_the_Team">About the Team</h4>
-AuroReal is a project management consulting team focused on commercializing programs. We provide start-up, emerging and well-established companies with useful insights for improving their commercialization decisions.<br>Commercialization is one of the most significant stages of the technological innovation process due to its high risks and costs. At AuroReal, we work as advisors as well as your collaborators during this crucial stage to help you avoid errors that could translate into serious market failure.<br>AuroReal is made up of four professional consultants with expertise in Mechanical Engineering, Electrical Engineering, Product Development, Automation and Control Systems. The team has comprehensive experience in technical marketing, digital marketing and intellectual property. We are here to support you taking decisive actions and achieve sustainable results.<h4 id="About_the_Name">About the Name</h4>
-AuroReal come from Aurora and Realization. The goal of the team is to help companies realize emerging high-tech innovations, as the aurora of our time, into real market shares. <h4 id="Team_Logo">Team Logo</h4>
-<img src="http://ww3.sinaimg.cn/mw690/72a818edjw1eofzkbmoo0j22di0qn13y.jpg" alt="AuroReal"><br>AuroReal helps move your business from the Red Ocean to the Blue Ocean and ensures sustainable growth by providing commercialization consulting services.<h4 id="Team_Mascot">Team Mascot</h4>
-<img src="http://ww2.sinaimg.cn/mw690/72a818edjw1eofznjhr0xj21pe1l5qd9.jpg" alt="AuroReal Dolphin"><br>The Blue Ocean recalls everyone of this smart animal, dolphin. AuroReal Dolphin represents the team’s knowledge, wisdom and energetic spirit. The smooth design can be easily and clearly applied to different kinds of materials in addition to printing, such as T-shirts, trophies, packages and company giveaways. With no additional accessories AuroReal Dolphin can be designed into 3D samples and the wide back of the dolphin leaves adequate space to print slogans or QR code to deliver more information.<h4 id="Team_Motto">Team Motto</h4>
-We help you realize your technology and win the market as a team. <h4 id="Designing_Reference:">Designing Reference:</h4>
-CG3, Deloitte, Erie Innovation and Commercialization, Caterpillar<h4 id="About_the_Team-1">About the Team</h4>
-All four team members of AuroReal are students from Duke MEMP (Master of Engineering Management Program). The program prepares engineering and science graduates to become future industry leaders.</li>
-</ul>
-</li>
-</ul>
+<p><strong>Team 7</strong>: Akash Gupta, Aaron Shakin, Lian Liu, Mohammad Ali Raahim</p>
+<h4 id="About_the_Team">About the Team</h4>
+<p>AuroReal is a project management consulting team focused on commercializing programs. We provide start-up, emerging and well-established companies with useful insights for improving their commercialization decisions.<br>Commercialization is one of the most significant stages of the technological innovation process due to its high risks and costs. At AuroReal, we work as advisors as well as your collaborators during this crucial stage to help you avoid errors that could translate into serious market failure.<br>AuroReal is made up of four professional consultants with expertise in Mechanical Engineering, Electrical Engineering, Product Development, Automation and Control Systems. The team has comprehensive experience in technical marketing, digital marketing and intellectual property. We are here to support you taking decisive actions and achieve sustainable results.</p>
+<h4 id="About_the_Name">About the Name</h4>
+<p>AuroReal come from Aurora and Realization. The goal of the team is to help companies realize emerging high-tech innovations, as the aurora of our time, into real market shares. </p>
+<h4 id="Team_Logo">Team Logo</h4>
+<p><img src="http://ww3.sinaimg.cn/mw690/72a818edjw1eofzkbmoo0j22di0qn13y.jpg" alt="AuroReal"><br>AuroReal helps move your business from the Red Ocean to the Blue Ocean and ensures sustainable growth by providing commercialization consulting services.</p>
+<h4 id="Team_Mascot">Team Mascot</h4>
+<p><img src="http://ww2.sinaimg.cn/mw690/72a818edjw1eofznjhr0xj21pe1l5qd9.jpg" alt="AuroReal Dolphin"><br>The Blue Ocean recalls everyone of this smart animal, dolphin. AuroReal Dolphin represents the team’s knowledge, wisdom and energetic spirit. The smooth design can be easily and clearly applied to different kinds of materials in addition to printing, such as T-shirts, trophies, packages and company giveaways. With no additional accessories AuroReal Dolphin can be designed into 3D samples and the wide back of the dolphin leaves adequate space to print slogans or QR code to deliver more information.</p>
+<h4 id="Team_Motto">Team Motto</h4>
+<p>We help you realize your technology and win the market as a team. </p>
+<h4 id="Designing_Reference:">Designing Reference:</h4>
+<p>CG3, Deloitte, Erie Innovation and Commercialization, Caterpillar</p>
+<h4 id="About_the_Team-1">About the Team</h4>
+<p>All four team members of AuroReal are students from Duke MEMP (Master of Engineering Management Program). The program prepares engineering and science graduates to become future industry leaders.</p>
+<p><em>I felt guilty not winning the 100 dollars prize for our team with this design. In general, the concept was comprehensive and creative. But the artwork was a little crude. I wanted to say at that time, I had just been in the US for less than two months. I was content with my achievement of making up all these instructions in English from nothing. But this is life, no excuse. I have to do better next time.</em></p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>This is an optional assignment from our Project Management class. The requirements are as follows.</p>
-<ul>
-<li>You are Professional cons]]>
+<p>===============================]]>
     </summary>
     
       <category term="Color" scheme="http://lianliu.me/tags/Color/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[How to Reset Your Network Connection]]></title>
+    <link href="http://lianliu.me/2014/09/17/How-to-Reset-Your-Network-Connection/"/>
+    <id>http://lianliu.me/2014/09/17/How-to-Reset-Your-Network-Connection/</id>
+    <published>2014-09-17T22:14:20.000Z</published>
+    <updated>2015-01-20T07:20:33.000Z</updated>
+    <content type="html"><![CDATA[<p>Spending twenty minutes calling Linksys customer service. Here is what I learned; <em>incase it happens again</em>.<br>BTW, Linksys does have qualified customer service as long as you still have your warranted. </p>
+<ul>
+<li>Reset your modem: unplug the power for 3 minutes;</li>
+<li>Connect the modem to your laptop; </li>
+<li>Check IP address: network and sharing centre -&gt; change adapter settings -&gt; Ethernet status;</li>
+<li>Connect the modem to the router;</li>
+<li>Connect the router’s <strong>OUT port</strong> to your laptop;</li>
+<li>Visit 192.168.1.1; leave the user name blank; pswd: admin;</li>
+<li>Internet connection type: automatic configuration - DHCP;</li>
+<li>Mac Address Clone: Clone PC’s Mac;</li>
+<li>Check whether the internet is connected;</li>
+<li>Unplug the power of your router to release the IP address;</li>
+<li>Status: check your new IP address;</li>
+<li>Wireless:<br>  Manually -&gt; network mode: mixed -&gt; Channel width: 20MHz only -&gt; Channel: 6-2.437HZ -&gt; SSID broadcast: enabled;</li>
+<li>Wireless security: Set network name and pswd;</li>
+<li>Unplug the wire from your laptop;</li>
+<li>Check whether you can get online now;</li>
+</ul>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Spending twenty minutes calling Linksys customer service. Here is what I learned; <em>incase it happens again</em>.<br>BTW, Linksys does ]]>
+    </summary>
+    
+      <category term="FunFact" scheme="http://lianliu.me/tags/FunFact/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Personal Portfolio]]></title>
+    <link href="http://lianliu.me/2011/11/01/20141111/"/>
+    <id>http://lianliu.me/2011/11/01/20141111/</id>
+    <published>2011-11-01T05:02:22.000Z</published>
+    <updated>2015-01-20T07:19:36.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="Platform">Platform</h2>
+<h3 id="Website">Website</h3>
+<p><strong>Site</strong> <a href="http://www.namecheap.com" target="_blank" rel="external">Namecheap</a> student discount for one year: <a href="http://lianliu.me" target="_blank" rel="external">LianLiu.me</a><br><strong>Github</strong> <a href="http://hackerxiong.me/2014/10/12/how-to-build-a-blog-system-using-github-and-hexo/" target="_blank" rel="external">Experience</a> by XWF; <a href="https://help.github.com/articles/markdown-basics/" target="_blank" rel="external">Markdown</a> Basics; <a href="http://git-scm.com/book/zh/v1" target="_blank" rel="external">Git-book</a></p>
+<h3 id="Online_Album">Online Album</h3>
+<p><strong>Domestic</strong> <a href="http://weibo.com/daodao1202/profile?rightmod=1&amp;wvr=6&amp;mod=personinfo" target="_blank" rel="external">Sina</a><br><strong>International</strong> <a href="https://www.flickr.com/" target="_blank" rel="external">Flickr</a></p>
+<h2 id="Works">Works</h2>
+<h3 id="Business_Projects">Business Projects</h3>
+<h3 id="Data_Projects">Data Projects</h3>
+<h3 id="Designs_and_Media">Designs and Media</h3>
+]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="Platform">Platform</h2>
+<h3 id="Website">Website</h3>
+<p><strong>Site</strong> <a href="http://www.namecheap.com" target="_blank" re]]>
+    </summary>
     
   </entry>
   
