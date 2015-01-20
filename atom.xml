@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Learn more about me]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://lianliu.me/"/>
-  <updated>2015-01-20T02:48:32.592Z</updated>
+  <updated>2015-01-20T02:50:22.115Z</updated>
   <id>http://lianliu.me/</id>
   
   <author>
@@ -156,10 +156,16 @@
     <link href="http://lianliu.me/2014/11/24/Role-of-Important-US-Organizations-in-the-Fight-Against-Ebola/"/>
     <id>http://lianliu.me/2014/11/24/Role-of-Important-US-Organizations-in-the-Fight-Against-Ebola/</id>
     <published>2014-11-25T02:18:34.000Z</published>
-    <updated>2015-01-20T02:36:51.000Z</updated>
-    <content type="html"><![CDATA[<p>This is the final project from our Data Mining course in Fall semester 2014. It was really exciting to have thirty students from this class study on one topic, Ebola. Especially at that time it was quite a hot topic in the news. Professor Egger divided this huge topic into several sub topics so each of us can focus on one aspect of the study. And mine was <strong>Role of Important US Organizations in the Fight Against Ebola</strong>.<br>This project aimed to study the extent that the financial and medical assistance from the U.S. will help control the epidemic; furthermore, the project intended to identify whether the promised support will be sufficient in the next 6 – 12 months.<br>An SEIR model was built up to estimate the future numbers of cases and to evaluate the amount of assistance that will be needed.<br>Considering that the U.S., U.K. and France are dividing some responsibilities for fighting the Ebola outbreak in West Africa along colonial-era lines2, this study mainly focused on the situation in Liberia; while general analysis on Guinea and Sierra Leone was also conducted.<br>All analysis was based on data available as of November 15, 2014.</p>
+    <updated>2015-01-20T02:50:14.000Z</updated>
+    <content type="html"><![CDATA[<p>This is the final project from our Data Mining course in Fall semester 2014. It was really exciting to have thirty students from this class study on one topic, Ebola. Especially at that time it was quite a hot topic in the news. Professor Egger divided this huge topic into several sub topics so each of us can focus on one aspect of the study. And mine was <strong>Role of Important US Organizations in the Fight Against Ebola</strong>. </p>
+<ul>
+<li>This project aimed to study the extent that the financial and medical assistance from the U.S. will help control the epidemic; furthermore, the project intended to identify whether the promised support will be sufficient in the next 6 – 12 months. </li>
+<li>An SEIR model was built up to estimate the future numbers of cases and to evaluate the amount of assistance that will be needed. </li>
+<li>Considering that the U.S., U.K. and France are dividing some responsibilities for fighting the Ebola outbreak in West Africa along colonial-era lines2, this study mainly focused on the situation in Liberia; while general analysis on Guinea and Sierra Leone was also conducted.</li>
+<li>All analysis was based on data available as of November 15, 2014.</li>
+</ul>
 <p>We were required to study independently on our own topics and make a poster showing all our study results. At the final presentation, we had fifteen minutes to illustrate our study using the poster; meanwhile, we had the opportunity to share our takeaways with our peers.<br>I have to say that this poster is much more delicate when seeing in screen than printed. But on the other hand, I obtained the experience of designing a professional sized poster. One of the features I was most proud of was that I used QR code to present my references instead of the traditional URLs. Obviously it is much more convenient for the audience to scan the QR code when viewing the poster. Maybe it will become a trend in the near future. </p>
-<p><strong>Institutor</strong>: Professor Daniel Egger<br><img src="http://ww2.sinaimg.cn/mw690/72a818edjw1eofrv6xdtkj23k02o0u0y.jpg" alt="Role of Important US Organizations in the Fight Against Ebola"></p>
+<p><strong>Instructor</strong>: Professor Daniel Egger<br><img src="http://ww2.sinaimg.cn/mw690/72a818edjw1eofrv6xdtkj23k02o0u0y.jpg" alt="Role of Important US Organizations in the Fight Against Ebola"></p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>This is the final project from our Data Mining course in Fall semester 2014. It was really exciting to have thirty students from this cla]]>
